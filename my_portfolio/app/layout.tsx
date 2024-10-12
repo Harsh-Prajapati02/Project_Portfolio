@@ -15,7 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Harsh's Portfolio",
+  icons: "",
+  title: "Harsh. Full Stack Developer",
   description: "Modern & Minimalist Portfolio",
 };
 
